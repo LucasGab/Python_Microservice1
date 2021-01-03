@@ -1,0 +1,42 @@
+{
+    "lastBookId": 2,
+    "books": {
+        "0": {
+            "Name": "Scrum",
+            "Authors": [
+                "Jeff Sutherland",
+                "J. J. Sutherland"
+            ],
+            "Quantity": 10,
+            "UsersLocations": [
+                "2",
+                "0"
+            ],
+            "id": 0
+        },
+        "2": {
+            "Name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "Authors": [
+                "Robert C. Martin",
+                "Michael C. Feathers",
+                "Timothy R. Ottinger"
+            ],
+            "Quantity": 5,
+            "id": 2,
+            "UsersLocations": [
+                "0",
+                "0"
+            ]
+        }
+    },
+    "locations": {
+        "2": [
+            "0"
+        ],
+        "0": [
+            "2",
+            "2",
+            "0"
+        ]
+    }
+}

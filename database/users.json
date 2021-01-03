@@ -1,0 +1,17 @@
+{
+    "lastUserId": 2,
+    "users": {
+        "0": {
+            "FirstName": "James",
+            "LastName": "Bond",
+            "Email": "JamesBond@Email.com",
+            "id": 0
+        },
+        "2": {
+            "FirstName": "Warren",
+            "LastName": "Buffett",
+            "Email": "WarrenBuffett@Email.com",
+            "id": 2
+        }
+    }
+}
