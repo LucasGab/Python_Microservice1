@@ -1,22 +1,26 @@
 # Python_Monolithic
  A proof of concept of a microservice architecture written in python and using flask and json.
  Simulate a simple library system.
+ 
+Exercise response of course in Digital Inovation One: Fundamentals of systems architecture ("Fundamentos de arquitetura de sistemas") - module: Architectural concepts in Internet applications ("Conceitos de arquitetura em aplicações para Internet"), class taught by [Jefferson Stachelski](https://github.com/jeffhsta).
+Exercises: https://github.com/jeffhsta/fundamentos_arquitetura
+
+Each service runs in one port.
+Has a simple automatic id system creation.
 
 Architecture based Example (not equals, just simulates the interactions and comunication workflow):
 
 ![Microservice 1](https://raw.githubusercontent.com/LucasGab/Python_Microservice1/master/microservice1.png)
 
-Instruction:
+# Instruction
 
 1. Clone the repository.
 2. Needs Python 3.* .
 3. Initiate a new `virtualenv venv` and install the `requirements.txt`.
 4. Run the main.py and use a tool like postman to make the requests.
 
-Each service runs in one port.
-Has a simple automatic id system creation.
 
-It implements the following end points:
+# End Points
     
     Users Service (Port=5000):
 
