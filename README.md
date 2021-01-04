@@ -2,7 +2,7 @@
  A proof of concept of a microservice architecture written in python and using flask and json.
  Simulate a simple library system.
  
-Exercise response of course in Digital Inovation One: Fundamentals of systems architecture ("Fundamentos de arquitetura de sistemas") - module: Architectural concepts in Internet applications ("Conceitos de arquitetura em aplicações para Internet"), class taught by [Jefferson Stachelski](https://github.com/jeffhsta).
+Exercise response of course in Digital Innovation One: Fundamentals of systems architecture ("Fundamentos de arquitetura de sistemas") - module: Architectural concepts in Internet applications ("Conceitos de arquitetura em aplicações para Internet"), class taught by [Jefferson Stachelski](https://github.com/jeffhsta).
 Exercises: https://github.com/jeffhsta/fundamentos_arquitetura
 
 Each service runs in one port.
